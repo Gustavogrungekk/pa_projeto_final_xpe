@@ -12,7 +12,7 @@ O objetivo do projeto é desenvolver um modelo de machine learning para identifi
 
 ## Estrutura do Repositório
 
-- **Scripts**: Scripts Python utilizados para coleta de dados, preparação e treinamento de modelos.
+- **Scripts**: Diretorio principal contendo os notebooks e scripts.
 - **Scripts/data/**: Contém os dados brutos e tratados utilizados no projeto.
 - **Scripts/modules/**: Contém as bibliotecas utilizadas no projeto.
 - **data/models/**: Modelos treinados e salvos em formato `.pkl`.
