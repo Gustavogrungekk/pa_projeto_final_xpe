@@ -20,7 +20,7 @@ O objetivo do projeto é desenvolver um modelo de machine learning para identifi
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.9+
 - Bibliotecas: 
   - pandas
   - numpy
@@ -37,7 +37,7 @@ O objetivo do projeto é desenvolver um modelo de machine learning para identifi
     ```
 2. Instale as dependências:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt ou rode main.py
     ```
 3. Execute os notebooks ou scripts para replicar as análises e modelos.
 
