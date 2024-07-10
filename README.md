@@ -1,13 +1,13 @@
 # Projeto Aplicado XPE
 
 ## Título
-Análise de Exoplanetas com Dados da NASA
+Machine Learning e NASA API Análise Exploratória de Exoplanetas
 
 ## Autor
 Gustavo Barreto
 
 ## Descrição
-Este repositório contém os códigos utilizados para o projeto de Análise de Exoplanetas com Dados da NASA.
+Este repositório contém os códigos utilizados para o projeto de Machine Learning e NASA API Análise Exploratória de Exoplanetas.
 O objetivo do projeto é desenvolver um modelo de machine learning para identificar exoplanetas potencialmente habitáveis com base em dados coletados da NASA Exoplanet Archive.
 
 ## Estrutura do Repositório
