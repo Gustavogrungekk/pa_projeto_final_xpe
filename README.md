@@ -33,7 +33,7 @@ O objetivo do projeto é desenvolver um modelo de machine learning para identifi
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/projeto-exoplanetas-nasa.git
+    git clone https://github.com/Gustavogrungekk/pa_projeto_final_xpe/
     ```
 2. Instale as dependências:
     ```bash
